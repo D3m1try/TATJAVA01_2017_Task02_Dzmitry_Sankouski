@@ -1,0 +1,16 @@
+------Categ Title  $   count
+addItem cycling wheeeeeel_of_fire 10000 14
+addItem cycling giperbyke 11100 1
+addItem cycling superbike 1023400 1000
+addItem cycling bike 1003456000 3
+addItem swimming check 1045670000 2
+addItem swimming mat 167000 1000
+addItem swimming hat 1789 1000
+addItem skiing hz 35000 4500
+addItem skiing something 34000 1000
+report shop
+item take bike Dzmitry
+item take hat Dzmitry
+item take wheeeeeel_of_fire Dzmitry
+report shop
+report users
